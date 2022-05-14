@@ -3,4 +3,6 @@ body{
 }
 .principal__titulo h1{
     font-family: Druk Wide Bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: hsl(0, 25%, 98%);
 }
